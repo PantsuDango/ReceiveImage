@@ -47,12 +47,6 @@ git clone https://github.com/PantsuDango/receive_img
 go mod tidy
 ```
 
-#### 编译
-
-```go
-go build app.go
-```
-
 #### 运行
 
 ```shell
